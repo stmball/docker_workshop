@@ -1,0 +1,1 @@
+fl4g{always_check_other_branches}
